@@ -1,7 +1,7 @@
 # Amigo-Secreto
 
 ## Descripción de su proyecto
-> Texto
+> Este repositorio contiene un proyecto tipo "Challenge" conocido como "Amigo secreto". Donde se 
 ## Funcionalidades
 >
 ## Cómo pueden usarlo los usuarios
