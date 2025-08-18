@@ -1,9 +1,8 @@
 # Amigo-Secreto
 
 ## Descripción de su proyecto
-> Este repositorio contiene un proyecto tipo "Challenge" conocido como "Amigo secreto". 
+### Este repositorio contiene un proyecto tipo "Challenge" conocido como "Amigo secreto". 
 ## Funcionalidades
-> Agregar amigo (agregarAmigo)
 ### ➕ Agregar amigo (`agregarAmigo`)
 - Lee el nombre desde el input `#amigo`.
 - Valida que no esté vacío (usa `.trim()`).
