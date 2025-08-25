@@ -26,13 +26,9 @@
 <img width="1907" height="893" alt="Captura de pantalla 2025-08-18 141539" src="https://github.com/user-attachments/assets/ee99cb72-719f-404e-bd85-7d10edb47af1" />
 
 
-
-
-
-
-
-
 ## Donde los usuarios pueden encontrar ayuda sobre su proyecto
->
+
+
+
 ## Autores del proyecto
 >
